@@ -1,2 +1,2 @@
 # prioritype
-taxonomic directory system
+TYPOTAXON DIRECTORY SYSTEM
