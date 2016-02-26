@@ -1,2 +1,2 @@
 # prioritype
-TYPOTAXON DIRECTORY SYSTEM
+typotaxon directory system
